@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-import Firebase
+//import Firebase
 
 struct WelcomeView: View {
    @AppStorage("savedEmail") var savedEmail:String = ""

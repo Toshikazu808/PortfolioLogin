@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-import Firebase
+//import Firebase
 
 struct LoginView: View {
    @State var color = Color.black.opacity(0.7)
